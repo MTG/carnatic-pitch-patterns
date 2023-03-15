@@ -1,8 +1,7 @@
-## Improving the discovery of melodic patterns in Carnatic Music with a tailored vocal pitch extraction methodology
-This is an anonimized common repository including all the implementations, pre-trained models, links and audio examples of our submission to the Speciall Call on Cultural Diversity in MIR from the TISMIR journal. 
+## Repertoire-specific vocal pitch data generation for improved melodic analysis of Carnatic Music
 
 ## Important links
-* [Saraga-Carnatic-Melody-Synth](https://zenodo.org/record/5553925) (anonimized Zenodo entry, to be added in the paper)
+* [Saraga-Carnatic-Melody-Synth](https://zenodo.org/record/5553925)
 
 ## Repository structure and running instructions
 In this repository to can find the following implementations:
@@ -15,7 +14,7 @@ carnatic-pitch-patterns
         training
         evaluation
         pre-trained models
-    Melodic-Pattern-Dscovery
+    melodic-pattern-discovery
         |
         evaluation
         visualisation
