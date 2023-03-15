@@ -1,0 +1,34 @@
+# Path to audio file to search
+pitch_path: 'data/melodia_mix/melodia_47_Koti_Janmani_from_mix.csv'
+audio_path: '/Volumes/Shruti/data/mir_datasets/saraga_carnatic/saraga1.5_carnatic/Akkarai Sisters at Arkay by Akkarai Sisters/Koti Janmani/Koti Janmani.multitrack-vocal-s.mp3'
+
+# Tidy Pitch curve
+gap_interp: 0.250 # Interpolate pitch tracks gaps of <gap_interp>seconds or less [set to None to skip]
+smooth: 7 # sigma for gaussian smoothing of pitch track [set to None to skip]
+
+###################
+### Motif Finding #
+###################
+# Length in seconds of motifs to search for
+m_secs: [1,2,3,4,5,6,7,8,9,10]
+# Whether to cache matrix profile for quicker run next time
+cache: True
+# Maximum number of unique motif groups to return
+top_n: 15
+# Maximum number of occurrences to return in each motif group
+n_occ: 20
+# Minimum number of occurrences to return in each motif group
+min_occ: 3 
+# patterns with parent distances above this threshold are not considered
+thresh: 1.5
+
+############
+### Output #
+############
+# Directory to output results too
+out_dir: 'data/melodia_mix/results/'
+
+# What to ouput
+output_plots: True
+output_audio: False
+output_patterns: True

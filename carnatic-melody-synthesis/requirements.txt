@@ -1,0 +1,11 @@
+numpy~=1.18.5
+essentia~=2.1b6.dev234
+scipy~=1.4.1
+spleeter~=2.2.1
+setuptools~=56.0.0
+Cython~=0.29.21
+matplotlib~=3.3.4
+mirdata~=0.3.2
+pandas~=1.1.2
+librosa~=0.8.0
+tqdm~=4.54.1

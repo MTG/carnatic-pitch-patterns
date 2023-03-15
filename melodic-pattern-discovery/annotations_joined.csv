@@ -1,0 +1,149 @@
+,tier,s1,s2,text,match_melodia,match_melodia_mix,match_ftanet,match_ftanet_mix,match_melodia_spleeter,match_melodia_spleeter_mix,group_num_melodia,group_num_melodia_mix,group_num_ftanet,group_num_ftanet_mix,group_num_melodia_spleeter,group_num_melodia_spleeter_mix,occ_num_melodia,occ_num_melodia_mix,occ_num_ftanet,occ_num_ftanet_mix,occ_num_melodia_spleeter,occ_num_melodia_spleeter_mix
+0,underlying_sancara,69.111,72.285,mmgmpgpmgrs,match,no match,match,match,match,match,18.0,,17.0,20.0,19.0,9.0,0.0,,0.0,18.0,0.0,11.0
+1,underlying_sancara,72.506,75.23,sssnnpn,no match,no match,match,match,match,no match,,,3.0,9.0,1.0,,,,9.0,0.0,4.0,
+2,underlying_sancara,75.428,78.77600000000001,smmggmggrs,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+3,underlying_sancara,80.928,84.014,mmgmpgpmgrs,match,no match,no match,match,match,no match,18.0,,,24.0,19.0,,1.0,,,0.0,1.0,
+4,underlying_sancara,84.414,87.214,sssnnpn,match,no match,match,no match,match,no match,1.0,,3.0,,1.0,,5.0,,11.0,,5.0,
+5,underlying_sancara,87.228,90.45700000000001,smmggmggrs,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+6,underlying_sancara,92.61399999999999,95.385,mmgmpgpmgrs,match,match,match,no match,match,no match,5.0,7.0,0.0,,2.0,,1.0,1.0,13.0,,6.0,
+7,underlying_sancara,95.62799999999999,98.44200000000001,sssnnpn,match,match,match,match,match,match,1.0,1.0,3.0,4.0,1.0,1.0,9.0,18.0,7.0,0.0,10.0,8.0
+8,underlying_sancara,98.685,101.557,smmggmggrs,no match,match,match,no match,no match,match,,1.0,11.0,,,1.0,,2.0,1.0,,,11.0
+9,underlying_sancara,103.94200000000001,106.885,mmgmpgpmgrs,match,no match,match,match,match,no match,5.0,,0.0,41.0,2.0,,2.0,,11.0,1.0,3.0,
+10,underlying_sancara,107.11399999999999,109.742,sssnnpn,match,no match,match,match,match,no match,1.0,,3.0,4.0,1.0,,4.0,,4.0,5.0,3.0,
+11,underlying_sancara,110.042,112.428,smmggmggrs,match,match,match,match,no match,match,2.0,1.0,1.0,1.0,,1.0,6.0,1.0,5.0,13.0,,7.0
+12,underlying_sancara,112.95700000000001,115.542,sgrgmmgm,match,match,match,no match,match,match,7.0,7.0,0.0,,8.0,2.0,0.0,5.0,12.0,,0.0,1.0
+13,underlying_sancara,115.671,118.314,mnnssss,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+14,underlying_sancara,118.385,121.185,nrsnsndm,no match,match,no match,match,no match,match,,5.0,,25.0,,0.0,,1.0,,2.0,,13.0
+15,underlying_sancara,121.228,124.228,gmpmgrgm,no match,no match,match,match,no match,no match,,,30.0,34.0,,,,,7.0,0.0,,
+16,underlying_sancara,126.785,129.6,mmgmpgpmgrs,match,no match,match,match,match,match,5.0,,6.0,41.0,5.0,2.0,3.0,,0.0,3.0,7.0,6.0
+17,underlying_sancara,129.942,132.71200000000002,sssnnpn,match,no match,match,match,match,match,1.0,,3.0,4.0,1.0,2.0,6.0,,0.0,4.0,8.0,10.0
+18,underlying_sancara,132.71200000000002,135.38299999999998,smmggmggrs,no match,no match,match,no match,no match,match,,,1.0,,,2.0,,,4.0,,,3.0
+19,underlying_sancara,135.528,138.428,sgrgmmgm,match,no match,match,no match,match,no match,0.0,,0.0,,8.0,,9.0,,16.0,,1.0,
+20,underlying_sancara,138.542,141.185,mnnssss,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+21,underlying_sancara,141.257,144.142,nrsnsndm,no match,match,no match,match,no match,match,,0.0,,25.0,,0.0,,13.0,,3.0,,15.0
+22,underlying_sancara,144.22799999999998,147.014,gmpmgrgm,match,no match,no match,no match,no match,no match,9.0,,,,,,0.0,,,,,
+23,underlying_sancara,149.585,152.314,mmgmpgpmgrs,match,match,match,match,match,no match,20.0,7.0,0.0,20.0,5.0,,1.0,0.0,19.0,5.0,5.0,
+24,underlying_sancara,152.56799999999998,155.442,sssnnpn,match,no match,match,match,match,no match,1.0,,3.0,4.0,1.0,,1.0,,1.0,2.0,1.0,
+25,underlying_sancara,180.044,183.485,nnnsndmgm,match,match,match,match,match,match,24.0,10.0,18.0,39.0,26.0,8.0,4.0,15.0,0.0,0.0,2.0,11.0
+26,underlying_sancara,186.828,189.5,nnsns,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+27,underlying_sancara,198.755,202.342,nnnsndmgm,match,no match,match,match,match,no match,24.0,,18.0,39.0,35.0,,5.0,,1.0,1.0,3.0,
+28,underlying_sancara,205.442,207.642,nnsns,match,match,match,match,match,match,3.0,0.0,4.0,26.0,3.0,3.0,0.0,11.0,0.0,1.0,0.0,1.0
+29,underlying_sancara,209.41099999999997,213.21400000000003,nnnsndmgm,no match,no match,match,match,match,match,,,18.0,39.0,26.0,8.0,,,3.0,4.0,1.0,14.0
+30,underlying_sancara,216.46599999999998,218.84400000000002,nnsns,match,no match,match,match,match,match,3.0,,4.0,26.0,3.0,3.0,1.0,,1.0,0.0,1.0,0.0
+31,underlying_sancara,220.74400000000003,224.422,nnnsndmgm,match,no match,match,match,match,no match,24.0,,18.0,39.0,35.0,,0.0,,2.0,2.0,0.0,
+32,underlying_sancara,225.942,229.56599999999997,sssndmnnsns,no match,no match,match,match,match,no match,,,27.0,36.0,29.0,,,,0.0,0.0,0.0,
+33,underlying_sancara,231.91400000000002,234.1,snrsnndm,match,no match,match,no match,match,no match,8.0,,22.0,,7.0,,3.0,,0.0,,0.0,
+34,underlying_sancara,237.455,240.355,mgmpmggrs,match,match,match,match,match,match,27.0,1.0,20.0,1.0,5.0,6.0,1.0,9.0,2.0,10.0,4.0,1.0
+35,underlying_sancara,242.72799999999998,244.84400000000002,snrsnndm,match,match,match,match,match,no match,8.0,13.0,7.0,31.0,7.0,,1.0,1.0,1.0,1.0,2.0,
+36,underlying_sancara,248.285,251.15,mgmpmggrs,match,no match,match,match,match,no match,27.0,,20.0,3.0,5.0,,0.0,,1.0,11.0,2.0,
+37,underlying_sancara,259.171,261.842,mgmpmggrs,match,match,match,match,match,match,5.0,1.0,1.0,20.0,5.0,2.0,5.0,11.0,8.0,6.0,0.0,5.0
+38,underlying_sancara,262.11400000000003,264.966,sgrgmmgm,match,no match,no match,no match,match,no match,7.0,,,,8.0,,1.0,,,,2.0,
+39,underlying_sancara,265.1,267.585,mnnssss,no match,match,no match,no match,no match,match,,2.0,,,,0.0,,9.0,,,,17.0
+40,underlying_sancara,267.814,270.471,nrsnsndm,no match,match,no match,match,no match,match,,0.0,,25.0,,0.0,,9.0,,0.0,,16.0
+41,underlying_sancara,270.471,273.233,gmpmgrgm,match,no match,no match,match,match,match,9.0,,,34.0,11.0,4.0,1.0,,,1.0,0.0,3.0
+42,underlying_sancara,275.748,278.428,mmgmpgpmgrs,match,match,match,match,match,no match,20.0,3.0,17.0,3.0,5.0,,2.0,1.0,12.0,12.0,8.0,
+43,underlying_sancara,278.628,281.267,sssnnpn,match,no match,match,match,match,no match,1.0,,3.0,4.0,1.0,,0.0,,3.0,8.0,0.0,
+44,underlying_sancara,302.885,305.457,pmgrs,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+45,underlying_sancara,305.514,308.44599999999997,sssnnpn,no match,no match,no match,match,no match,match,,,,4.0,,2.0,,,,6.0,,14.0
+46,underlying_sancara,308.722,310.925,ssgrg,no match,match,no match,no match,no match,match,,1.0,,,,2.0,,4.0,,,,0.0
+47,underlying_sancara,310.925,313.522,mgmpmggrs,match,match,match,match,match,no match,18.0,3.0,17.0,20.0,19.0,,6.0,2.0,6.0,15.0,5.0,
+48,underlying_sancara,313.757,316.274,pmgrs,no match,no match,match,no match,no match,match,,,1.0,,,2.0,,,12.0,,,13.0
+49,underlying_sancara,316.457,319.08299999999997,sssnnpn,no match,no match,match,match,no match,match,,,3.0,4.0,,2.0,,,10.0,3.0,,9.0
+50,underlying_sancara,319.698,321.916,ssgrg,no match,no match,no match,match,no match,match,,,,3.0,,2.0,,,,6.0,,15.0
+51,underlying_sancara,321.941,324.564,mgmpmggrs,match,match,match,match,match,match,18.0,8.0,17.0,1.0,19.0,2.0,4.0,0.0,4.0,4.0,4.0,4.0
+52,underlying_sancara,324.714,327.122,pmgrs,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+53,underlying_sancara,327.385,330.214,sssnnpn,match,match,match,match,match,match,1.0,4.0,3.0,4.0,1.0,13.0,8.0,1.0,6.0,1.0,9.0,7.0
+54,underlying_sancara,330.535,332.705,ssgrg,no match,no match,no match,no match,no match,match,,,,,,1.0,,,,,,18.0
+55,underlying_sancara,332.8,335.214,mgmpmggrs,match,no match,no match,no match,match,no match,18.0,,,,19.0,,7.0,,,,6.0,
+56,underlying_sancara,335.32800000000003,337.788,pmgrs,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+57,underlying_sancara,338.12800000000004,340.82800000000003,sssnnpn,match,no match,match,match,match,no match,1.0,,3.0,4.0,1.0,,3.0,,2.0,7.0,7.0,
+58,underlying_sancara,341.35699999999997,343.564,ssgrg,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+59,underlying_sancara,343.565,346.42800000000005,mgmpmggrs,match,no match,no match,match,match,no match,18.0,,,20.0,19.0,,5.0,,,16.0,7.0,
+60,underlying_sancara,352.37699999999995,357.12800000000004,mmmmmpmgrgm,match,no match,match,match,no match,no match,43.0,,42.0,37.0,,,0.0,,0.0,5.0,,
+61,underlying_sancara,357.12800000000004,359.54400000000004,mnnnsndm,no match,match,no match,match,no match,no match,,5.0,,28.0,,,,0.0,,0.0,,
+62,underlying_sancara,359.57099999999997,362.842,mmgmpmggrs,match,no match,match,match,no match,no match,22.0,,17.0,20.0,,,0.0,,10.0,3.0,,
+63,underlying_sancara,363.11,368.055,mmmmmpmgrgm,match,no match,match,no match,match,no match,45.0,,42.0,,49.0,,1.0,,1.0,,1.0,
+64,underlying_sancara,368.155,370.585,mnnnsndm,no match,match,no match,no match,no match,no match,,7.0,,,,,,3.0,,,,
+65,underlying_sancara,370.671,373.70099999999996,mmgmpmggrs,match,no match,no match,match,match,no match,2.0,,,20.0,2.0,,0.0,,,2.0,1.0,
+66,underlying_sancara,374.342,376.42199999999997,ssnn,no match,no match,no match,no match,no match,match,,,,,,6.0,,,,,,0.0
+67,underlying_sancara,376.504,379.8,nnnsndmgm,match,no match,match,match,match,match,21.0,,24.0,23.0,22.0,12.0,0.0,,1.0,2.0,0.0,4.0
+68,underlying_sancara,383.066,386.014,nnsns,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+69,underlying_sancara,403.528,405.56199999999995,ssnn,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+70,underlying_sancara,405.86300000000006,409.233,nnnsndmgm,match,no match,match,match,match,no match,21.0,,24.0,39.0,22.0,,1.0,,0.0,6.0,1.0,
+71,underlying_sancara,416.344,419.98800000000006,nnnsndmgm,match,no match,match,match,match,match,24.0,,18.0,39.0,35.0,10.0,1.0,,5.0,3.0,1.0,1.0
+72,underlying_sancara,423.185,425.222,nnsns,match,match,match,no match,match,match,3.0,0.0,4.0,,3.0,3.0,3.0,4.0,3.0,,3.0,3.0
+73,underlying_sancara,427.344,430.714,nnnsndmgm,match,no match,match,match,match,no match,24.0,,18.0,39.0,26.0,,2.0,,6.0,5.0,0.0,
+74,underlying_sancara,432.27099999999996,435.68800000000005,sssndmnnsns,no match,match,match,match,match,match,,15.0,27.0,36.0,29.0,11.0,,16.0,1.0,1.0,1.0,1.0
+75,underlying_sancara,443.642,446.57599999999996,mgmpmggrs,match,match,match,match,match,match,20.0,1.0,1.0,1.0,5.0,1.0,3.0,15.0,1.0,0.0,3.0,16.0
+76,underlying_sancara,454.28,456.86199999999997,mgmpmggrs,no match,no match,match,match,match,no match,,,1.0,1.0,5.0,,,,13.0,8.0,9.0,
+77,underlying_sancara,465.12800000000004,467.642,mgmpmggrs,match,match,match,no match,match,no match,20.0,1.0,1.0,,5.0,,4.0,17.0,14.0,,1.0,
+78,underlying_sancara,470.88699999999994,473.38699999999994,mnnssss,no match,no match,match,no match,no match,match,,,4.0,,,0.0,,,4.0,,,18.0
+79,underlying_sancara,473.389,476.046,nrsnsndm,no match,match,no match,match,no match,match,,10.0,,25.0,,0.0,,8.0,,1.0,,12.0
+80,underlying_sancara,476.26599999999996,478.811,gmpmgrgm,match,no match,no match,match,match,no match,9.0,,,34.0,11.0,,2.0,,,2.0,1.0,
+81,underlying_sancara,481.314,484.07199999999995,mmgmpgpmgrs,match,match,match,match,match,match,5.0,7.0,6.0,20.0,5.0,9.0,4.0,2.0,1.0,10.0,6.0,5.0
+82,underlying_sancara,484.07199999999995,486.985,sssnnpn,match,no match,match,match,match,no match,1.0,,3.0,9.0,1.0,,2.0,,5.0,2.0,2.0,
+83,underlying_sancara,508.4,512.2280000000001,smmggmggrs,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+84,underlying_full_phrase,67.388,72.29899999999999,ppmmgmpgpmgrs,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+85,underlying_full_phrase,72.506,75.23,sssnnpn,no match,no match,match,match,match,no match,,,3.0,9.0,1.0,,,,9.0,0.0,4.0,
+86,underlying_full_phrase,75.428,78.77600000000001,smmggmggrs,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+87,underlying_full_phrase,79.342,84.014,ppmmgmpgpmgrs,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+88,underlying_full_phrase,84.414,87.214,sssnnpn,match,no match,match,no match,match,no match,1.0,,3.0,,1.0,,5.0,,11.0,,5.0,
+89,underlying_full_phrase,87.228,90.45700000000001,smmggmggrs,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+90,underlying_full_phrase,90.787,95.35799999999999,nnsndmmmgmpgpmgrs,match,no match,match,match,match,no match,30.0,,30.0,41.0,32.0,,0.0,,0.0,0.0,0.0,
+91,underlying_full_phrase,95.62799999999999,98.44200000000001,sssnnpn,match,match,match,match,match,match,1.0,1.0,3.0,4.0,1.0,1.0,9.0,18.0,7.0,0.0,10.0,8.0
+92,underlying_full_phrase,98.685,101.557,smmggmggrs,no match,match,match,no match,no match,match,,1.0,11.0,,,1.0,,2.0,1.0,,,11.0
+93,underlying_full_phrase,102.335,106.87799999999999,nnsndmmmgmpgpmgrs,match,no match,match,match,match,no match,30.0,,30.0,41.0,32.0,,1.0,,1.0,1.0,1.0,
+94,underlying_full_phrase,107.11399999999999,109.742,sssnnpn,match,no match,match,match,match,no match,1.0,,3.0,4.0,1.0,,4.0,,4.0,5.0,3.0,
+95,underlying_full_phrase,110.042,112.428,smmggmggrs,match,match,match,match,no match,match,2.0,1.0,1.0,1.0,,1.0,6.0,1.0,5.0,13.0,,7.0
+96,underlying_full_phrase,112.95700000000001,118.322,sgrgmmgmmnnssss,no match,no match,no match,match,no match,no match,,,,42.0,,,,,,1.0,,
+97,underlying_full_phrase,118.38799999999999,125.085,nrsnsndmgmpmgrgmgmn,no match,no match,match,match,match,no match,,,43.0,57.0,41.0,,,,1.0,1.0,3.0,
+98,underlying_full_phrase,125.156,129.601,nnsndmmmgmpgpmgrs,no match,match,no match,match,no match,match,,11.0,,22.0,,12.0,,6.0,,1.0,,11.0
+99,underlying_full_phrase,129.942,132.71200000000002,sssnnpn,match,no match,match,match,match,match,1.0,,3.0,4.0,1.0,2.0,6.0,,0.0,4.0,8.0,10.0
+100,underlying_full_phrase,132.71200000000002,135.38299999999998,smmggmggrs,no match,no match,match,no match,no match,match,,,1.0,,,2.0,,,4.0,,,3.0
+101,underlying_full_phrase,135.55100000000002,141.207,sgrgmmgmmnnssss,no match,no match,no match,match,no match,no match,,,,42.0,,,,,,3.0,,
+102,underlying_full_phrase,141.295,147.865,nrsnsndmgmpmgrgmgmn,match,no match,match,match,match,no match,39.0,,47.0,51.0,41.0,,1.0,,0.0,1.0,2.0,
+103,underlying_full_phrase,147.903,152.314,nnsndmmmgmpgpmgrs,match,match,match,match,match,no match,20.0,15.0,17.0,38.0,21.0,,1.0,13.0,3.0,2.0,3.0,
+104,underlying_full_phrase,152.56799999999998,155.442,sssnnpn,match,no match,match,match,match,no match,1.0,,3.0,4.0,1.0,,1.0,,1.0,2.0,1.0,
+105,underlying_full_phrase,177.981,184.771,nnnnnnsndmgmnns,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+106,underlying_full_phrase,185.08900000000003,189.50400000000002,sssndmnnsns,match,match,match,match,no match,match,26.0,10.0,23.0,29.0,,8.0,1.0,7.0,1.0,0.0,,4.0
+107,underlying_full_phrase,196.985,203.72799999999998,nnnnnnsndmgmnns,no match,no match,match,no match,no match,no match,,,40.0,,,,,,2.0,,,
+108,underlying_full_phrase,203.857,207.628,sssndmnnsns,match,no match,match,match,match,no match,25.0,,21.0,26.0,25.0,,3.0,,1.0,1.0,0.0,
+109,underlying_full_phrase,207.722,214.442,nnnnnnsndmgmnns,no match,match,match,match,no match,match,,19.0,46.0,47.0,,19.0,,5.0,0.0,0.0,,5.0
+110,underlying_full_phrase,214.87099999999998,218.86599999999999,sssndmnnsns,match,no match,match,match,match,no match,25.0,,21.0,26.0,25.0,,1.0,,0.0,0.0,1.0,
+111,underlying_full_phrase,218.86599999999999,225.622,nnnnnnsndmgmnns,match,no match,match,no match,no match,match,47.0,,46.0,,,19.0,1.0,,1.0,,,4.0
+112,underlying_full_phrase,230.055,235.345,grsssnrsnndmgmn,match,no match,match,match,match,no match,33.0,,33.0,44.0,38.0,,1.0,,2.0,3.0,4.0,
+113,underlying_full_phrase,235.518,240.377,ssnsrsndmmgmpmggrs,match,match,match,match,match,match,34.0,15.0,31.0,41.0,36.0,12.0,2.0,19.0,1.0,2.0,2.0,7.0
+114,underlying_full_phrase,240.921,246.09900000000002,grsssnrsnndmgmn,match,no match,match,match,match,no match,33.0,,33.0,44.0,38.0,,2.0,,0.0,1.0,3.0,
+115,underlying_full_phrase,246.484,251.162,ssnsrsndmmgmpmggrs,match,no match,match,match,match,no match,34.0,,31.0,43.0,36.0,,4.0,,4.0,0.0,3.0,
+116,underlying_full_phrase,251.822,257.08099999999996,grsssnrsnndmgmn,match,no match,match,match,match,no match,33.0,,33.0,54.0,38.0,,0.0,,4.0,1.0,0.0,
+117,underlying_full_phrase,257.404,261.848,ssnsrsndmmgmpmggrs,match,match,match,match,match,match,20.0,11.0,17.0,38.0,21.0,8.0,0.0,1.0,11.0,1.0,0.0,16.0
+118,underlying_full_phrase,262.131,267.598,sgrgmmgmmnnssss,no match,no match,match,match,no match,no match,,,32.0,42.0,,,,,4.0,2.0,,
+119,underlying_full_phrase,267.82099999999997,274.154,nrsnsndmgmpmgrgmgmn,match,no match,match,match,match,no match,39.0,,43.0,51.0,41.0,,0.0,,0.0,2.0,0.0,
+120,underlying_full_phrase,274.166,278.433,nnsndmmmgmpgpmgrs,match,no match,match,match,match,match,20.0,,17.0,22.0,21.0,17.0,2.0,,12.0,2.0,4.0,5.0
+121,underlying_full_phrase,278.628,281.267,sssnnpn,match,no match,match,match,match,no match,1.0,,3.0,4.0,1.0,,0.0,,3.0,8.0,0.0,
+122,underlying_full_phrase,302.87,308.459,pmgrssssnnpn,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+123,underlying_full_phrase,308.723,313.534,ssgrgmgmpmggrs,match,match,match,match,match,no match,29.0,16.0,32.0,37.0,34.0,,2.0,2.0,1.0,2.0,2.0,
+124,underlying_full_phrase,313.777,319.077,pmgrssssnnpn,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+125,underlying_full_phrase,319.709,324.564,ssgrgmgmpmggrs,match,match,match,match,match,match,29.0,16.0,32.0,37.0,34.0,13.0,3.0,4.0,2.0,1.0,3.0,5.0
+126,underlying_full_phrase,324.733,330.233,pmgrssssnnpn,no match,no match,no match,match,no match,match,,,,40.0,,13.0,,,,1.0,,7.0
+127,underlying_full_phrase,330.538,335.249,ssgrgmgmpmggrs,match,no match,match,match,match,no match,29.0,,32.0,37.0,34.0,,0.0,,0.0,0.0,0.0,
+128,underlying_full_phrase,335.344,340.842,pmgrssssnnpn,no match,no match,no match,no match,no match,no match,,,,,,,,,,,,
+129,underlying_full_phrase,341.371,346.42699999999996,ssgrgmgmpmggrs,match,no match,no match,no match,match,no match,29.0,,,,34.0,,1.0,,,,1.0,
+130,underlying_full_phrase,352.37699999999995,357.12800000000004,mmmmmpmgrgm,match,no match,match,match,no match,no match,43.0,,42.0,37.0,,,0.0,,0.0,5.0,,
+131,underlying_full_phrase,357.13599999999997,362.847,mnnnsndmmmgmpmggrs,no match,no match,no match,match,no match,no match,,,,38.0,,,,,,4.0,,
+132,underlying_full_phrase,363.11,368.055,mmmmmpmgrgm,match,no match,match,no match,match,no match,45.0,,42.0,,49.0,,1.0,,1.0,,1.0,
+133,underlying_full_phrase,368.159,373.715,mnnnsndmmmgmpmggrs,no match,no match,no match,match,no match,no match,,,,38.0,,,,,,3.0,,
+134,underlying_full_phrase,376.504,381.13300000000004,nnnsndmgmnns,no match,no match,match,no match,no match,no match,,,35.0,,,,,,0.0,,,
+135,underlying_full_phrase,381.528,386.014,sssndmnnsns,match,no match,match,match,no match,no match,26.0,,23.0,29.0,,,0.0,,0.0,1.0,,
+136,underlying_full_phrase,405.86300000000006,410.591,nnnsndmgmnns,no match,no match,no match,match,no match,no match,,,,39.0,,,,,,6.0,,
+137,underlying_full_phrase,410.8,414.366,sssndmnnsns,match,match,match,match,match,match,25.0,10.0,21.0,26.0,25.0,10.0,2.0,11.0,3.0,3.0,2.0,2.0
+138,underlying_full_phrase,421.577,425.24800000000005,sssndmnnsns,match,no match,match,match,match,match,25.0,,21.0,26.0,25.0,8.0,0.0,,2.0,2.0,3.0,7.0
+139,underlying_full_phrase,425.353,431.971,nnnnnnsndmgmnns,no match,no match,match,no match,no match,no match,,,46.0,,,,,,3.0,,,
+140,underlying_full_phrase,432.27099999999996,435.68800000000005,sssndmnnsns,no match,match,match,match,match,match,,15.0,27.0,36.0,29.0,11.0,,16.0,1.0,1.0,1.0,1.0
+141,underlying_full_phrase,436.186,441.475,grsssnrsnndmgmn,no match,no match,no match,match,match,no match,,,,44.0,38.0,,,,,0.0,1.0,
+142,underlying_full_phrase,441.654,446.57599999999996,ssnsrsndmmgmpmggrs,match,no match,match,match,match,match,34.0,,30.0,38.0,36.0,12.0,0.0,,2.0,0.0,0.0,13.0
+143,underlying_full_phrase,446.944,451.94199999999995,grsssnrsnndmgmn,no match,no match,match,no match,no match,no match,,,33.0,,,,,,1.0,,,
+144,underlying_full_phrase,452.423,456.86699999999996,ssnsrsndmmgmpmggrs,match,match,match,match,no match,no match,27.0,15.0,20.0,41.0,,,2.0,8.0,3.0,4.0,,
+145,underlying_full_phrase,457.81199999999995,462.967,grsssnrsnndmgmn,match,match,match,match,match,no match,33.0,15.0,33.0,44.0,38.0,,3.0,6.0,3.0,2.0,2.0,
+146,underlying_full_phrase,463.194,467.639,ssnsrsndmmgmpmggrs,match,match,match,no match,match,match,20.0,11.0,20.0,,21.0,8.0,4.0,3.0,0.0,,1.0,17.0
+147,underlying_full_phrase,473.418,479.629,nrsnsndmgmpmgrgmgmn,no match,no match,match,match,match,no match,,,42.0,51.0,41.0,,,,2.0,0.0,1.0,

@@ -1,0 +1,149 @@
+tier,s1,s2,text,match,group_num,occ_num
+underlying_sancara,69.111,72.285,mmgmpgpmgrs,match,9.0,11.0
+underlying_sancara,72.506,75.23,sssnnpn,no match,,
+underlying_sancara,75.428,78.776,smmggmggrs,no match,,
+underlying_sancara,80.928,84.014,mmgmpgpmgrs,no match,,
+underlying_sancara,84.414,87.214,sssnnpn,no match,,
+underlying_sancara,87.228,90.457,smmggmggrs,no match,,
+underlying_sancara,92.614,95.385,mmgmpgpmgrs,no match,,
+underlying_sancara,95.628,98.442,sssnnpn,match,1.0,8.0
+underlying_sancara,98.685,101.557,smmggmggrs,match,1.0,11.0
+underlying_sancara,103.942,106.885,mmgmpgpmgrs,no match,,
+underlying_sancara,107.114,109.742,sssnnpn,no match,,
+underlying_sancara,110.042,112.428,smmggmggrs,match,1.0,7.0
+underlying_sancara,112.957,115.542,sgrgmmgm,match,2.0,1.0
+underlying_sancara,115.671,118.314,mnnssss,no match,,
+underlying_sancara,118.385,121.185,nrsnsndm,match,0.0,13.0
+underlying_sancara,121.228,124.228,gmpmgrgm,no match,,
+underlying_sancara,126.785,129.6,mmgmpgpmgrs,match,2.0,6.0
+underlying_sancara,129.942,132.712,sssnnpn,match,2.0,10.0
+underlying_sancara,132.712,135.383,smmggmggrs,match,2.0,3.0
+underlying_sancara,135.528,138.428,sgrgmmgm,no match,,
+underlying_sancara,138.542,141.185,mnnssss,no match,,
+underlying_sancara,141.257,144.142,nrsnsndm,match,0.0,15.0
+underlying_sancara,144.228,147.014,gmpmgrgm,no match,,
+underlying_sancara,149.585,152.314,mmgmpgpmgrs,no match,,
+underlying_sancara,152.568,155.442,sssnnpn,no match,,
+underlying_sancara,180.044,183.485,nnnsndmgm,match,8.0,11.0
+underlying_sancara,186.828,189.5,nnsns,no match,,
+underlying_sancara,198.755,202.342,nnnsndmgm,no match,,
+underlying_sancara,205.442,207.642,nnsns,match,3.0,1.0
+underlying_sancara,209.411,213.214,nnnsndmgm,match,8.0,14.0
+underlying_sancara,216.466,218.844,nnsns,match,3.0,0.0
+underlying_sancara,220.744,224.422,nnnsndmgm,no match,,
+underlying_sancara,225.942,229.566,sssndmnnsns,no match,,
+underlying_sancara,231.914,234.1,snrsnndm,no match,,
+underlying_sancara,237.455,240.355,mgmpmggrs,match,6.0,1.0
+underlying_sancara,242.728,244.844,snrsnndm,no match,,
+underlying_sancara,248.285,251.15,mgmpmggrs,no match,,
+underlying_sancara,259.171,261.842,mgmpmggrs,match,2.0,5.0
+underlying_sancara,262.114,264.966,sgrgmmgm,no match,,
+underlying_sancara,265.1,267.585,mnnssss,match,0.0,17.0
+underlying_sancara,267.814,270.471,nrsnsndm,match,0.0,16.0
+underlying_sancara,270.471,273.233,gmpmgrgm,match,4.0,3.0
+underlying_sancara,275.748,278.428,mmgmpgpmgrs,no match,,
+underlying_sancara,278.628,281.267,sssnnpn,no match,,
+underlying_sancara,302.885,305.457,pmgrs,no match,,
+underlying_sancara,305.514,308.446,sssnnpn,match,2.0,14.0
+underlying_sancara,308.722,310.925,ssgrg,match,2.0,0.0
+underlying_sancara,310.925,313.522,mgmpmggrs,no match,,
+underlying_sancara,313.757,316.274,pmgrs,match,2.0,13.0
+underlying_sancara,316.457,319.083,sssnnpn,match,2.0,9.0
+underlying_sancara,319.698,321.916,ssgrg,match,2.0,15.0
+underlying_sancara,321.941,324.564,mgmpmggrs,match,2.0,4.0
+underlying_sancara,324.714,327.122,pmgrs,no match,,
+underlying_sancara,327.385,330.214,sssnnpn,match,13.0,7.0
+underlying_sancara,330.535,332.705,ssgrg,match,1.0,18.0
+underlying_sancara,332.8,335.214,mgmpmggrs,no match,,
+underlying_sancara,335.328,337.788,pmgrs,no match,,
+underlying_sancara,338.128,340.828,sssnnpn,no match,,
+underlying_sancara,341.357,343.564,ssgrg,no match,,
+underlying_sancara,343.565,346.428,mgmpmggrs,no match,,
+underlying_sancara,352.377,357.128,mmmmmpmgrgm,no match,,
+underlying_sancara,357.128,359.544,mnnnsndm,no match,,
+underlying_sancara,359.571,362.842,mmgmpmggrs,no match,,
+underlying_sancara,363.11,368.055,mmmmmpmgrgm,no match,,
+underlying_sancara,368.155,370.585,mnnnsndm,no match,,
+underlying_sancara,370.671,373.701,mmgmpmggrs,no match,,
+underlying_sancara,374.342,376.422,ssnn,match,6.0,0.0
+underlying_sancara,376.504,379.8,nnnsndmgm,match,12.0,4.0
+underlying_sancara,383.066,386.014,nnsns,no match,,
+underlying_sancara,403.528,405.562,ssnn,no match,,
+underlying_sancara,405.863,409.233,nnnsndmgm,no match,,
+underlying_sancara,416.344,419.988,nnnsndmgm,match,10.0,1.0
+underlying_sancara,423.185,425.222,nnsns,match,3.0,3.0
+underlying_sancara,427.344,430.714,nnnsndmgm,no match,,
+underlying_sancara,432.271,435.688,sssndmnnsns,match,11.0,1.0
+underlying_sancara,443.642,446.576,mgmpmggrs,match,1.0,16.0
+underlying_sancara,454.28,456.862,mgmpmggrs,no match,,
+underlying_sancara,465.128,467.642,mgmpmggrs,no match,,
+underlying_sancara,470.887,473.387,mnnssss,match,0.0,18.0
+underlying_sancara,473.389,476.046,nrsnsndm,match,0.0,12.0
+underlying_sancara,476.266,478.811,gmpmgrgm,no match,,
+underlying_sancara,481.314,484.072,mmgmpgpmgrs,match,9.0,5.0
+underlying_sancara,484.072,486.985,sssnnpn,no match,,
+underlying_sancara,508.4,512.228,smmggmggrs,no match,,
+underlying_full_phrase,67.388,72.299,ppmmgmpgpmgrs,no match,,
+underlying_full_phrase,72.506,75.23,sssnnpn,no match,,
+underlying_full_phrase,75.428,78.776,smmggmggrs,no match,,
+underlying_full_phrase,79.342,84.014,ppmmgmpgpmgrs,no match,,
+underlying_full_phrase,84.414,87.214,sssnnpn,no match,,
+underlying_full_phrase,87.228,90.457,smmggmggrs,no match,,
+underlying_full_phrase,90.787,95.358,nnsndmmmgmpgpmgrs,no match,,
+underlying_full_phrase,95.628,98.442,sssnnpn,match,1.0,8.0
+underlying_full_phrase,98.685,101.557,smmggmggrs,match,1.0,11.0
+underlying_full_phrase,102.335,106.878,nnsndmmmgmpgpmgrs,no match,,
+underlying_full_phrase,107.114,109.742,sssnnpn,no match,,
+underlying_full_phrase,110.042,112.428,smmggmggrs,match,1.0,7.0
+underlying_full_phrase,112.957,118.322,sgrgmmgmmnnssss,no match,,
+underlying_full_phrase,118.388,125.085,nrsnsndmgmpmgrgmgmn,no match,,
+underlying_full_phrase,125.156,129.601,nnsndmmmgmpgpmgrs,match,12.0,11.0
+underlying_full_phrase,129.942,132.712,sssnnpn,match,2.0,10.0
+underlying_full_phrase,132.712,135.383,smmggmggrs,match,2.0,3.0
+underlying_full_phrase,135.551,141.207,sgrgmmgmmnnssss,no match,,
+underlying_full_phrase,141.295,147.865,nrsnsndmgmpmgrgmgmn,no match,,
+underlying_full_phrase,147.903,152.314,nnsndmmmgmpgpmgrs,no match,,
+underlying_full_phrase,152.568,155.442,sssnnpn,no match,,
+underlying_full_phrase,177.981,184.771,nnnnnnsndmgmnns,no match,,
+underlying_full_phrase,185.089,189.504,sssndmnnsns,match,8.0,4.0
+underlying_full_phrase,196.985,203.728,nnnnnnsndmgmnns,no match,,
+underlying_full_phrase,203.857,207.628,sssndmnnsns,no match,,
+underlying_full_phrase,207.722,214.442,nnnnnnsndmgmnns,match,19.0,5.0
+underlying_full_phrase,214.871,218.866,sssndmnnsns,no match,,
+underlying_full_phrase,218.866,225.622,nnnnnnsndmgmnns,match,19.0,4.0
+underlying_full_phrase,230.055,235.345,grsssnrsnndmgmn,no match,,
+underlying_full_phrase,235.518,240.377,ssnsrsndmmgmpmggrs,match,12.0,7.0
+underlying_full_phrase,240.921,246.099,grsssnrsnndmgmn,no match,,
+underlying_full_phrase,246.484,251.162,ssnsrsndmmgmpmggrs,no match,,
+underlying_full_phrase,251.822,257.081,grsssnrsnndmgmn,no match,,
+underlying_full_phrase,257.404,261.848,ssnsrsndmmgmpmggrs,match,8.0,16.0
+underlying_full_phrase,262.131,267.598,sgrgmmgmmnnssss,no match,,
+underlying_full_phrase,267.821,274.154,nrsnsndmgmpmgrgmgmn,no match,,
+underlying_full_phrase,274.166,278.433,nnsndmmmgmpgpmgrs,match,17.0,5.0
+underlying_full_phrase,278.628,281.267,sssnnpn,no match,,
+underlying_full_phrase,302.87,308.459,pmgrssssnnpn,no match,,
+underlying_full_phrase,308.723,313.534,ssgrgmgmpmggrs,no match,,
+underlying_full_phrase,313.777,319.077,pmgrssssnnpn,no match,,
+underlying_full_phrase,319.709,324.564,ssgrgmgmpmggrs,match,13.0,5.0
+underlying_full_phrase,324.733,330.233,pmgrssssnnpn,match,13.0,7.0
+underlying_full_phrase,330.538,335.249,ssgrgmgmpmggrs,no match,,
+underlying_full_phrase,335.344,340.842,pmgrssssnnpn,no match,,
+underlying_full_phrase,341.371,346.427,ssgrgmgmpmggrs,no match,,
+underlying_full_phrase,352.377,357.128,mmmmmpmgrgm,no match,,
+underlying_full_phrase,357.136,362.847,mnnnsndmmmgmpmggrs,no match,,
+underlying_full_phrase,363.11,368.055,mmmmmpmgrgm,no match,,
+underlying_full_phrase,368.159,373.715,mnnnsndmmmgmpmggrs,no match,,
+underlying_full_phrase,376.504,381.133,nnnsndmgmnns,no match,,
+underlying_full_phrase,381.528,386.014,sssndmnnsns,no match,,
+underlying_full_phrase,405.863,410.591,nnnsndmgmnns,no match,,
+underlying_full_phrase,410.8,414.366,sssndmnnsns,match,10.0,2.0
+underlying_full_phrase,421.577,425.248,sssndmnnsns,match,8.0,7.0
+underlying_full_phrase,425.353,431.971,nnnnnnsndmgmnns,no match,,
+underlying_full_phrase,432.271,435.688,sssndmnnsns,match,11.0,1.0
+underlying_full_phrase,436.186,441.475,grsssnrsnndmgmn,no match,,
+underlying_full_phrase,441.654,446.576,ssnsrsndmmgmpmggrs,match,12.0,13.0
+underlying_full_phrase,446.944,451.942,grsssnrsnndmgmn,no match,,
+underlying_full_phrase,452.423,456.867,ssnsrsndmmgmpmggrs,no match,,
+underlying_full_phrase,457.812,462.967,grsssnrsnndmgmn,no match,,
+underlying_full_phrase,463.194,467.639,ssnsrsndmmgmpmggrs,match,8.0,17.0
+underlying_full_phrase,473.418,479.629,nrsnsndmgmpmgrgmgmn,no match,,

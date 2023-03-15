@@ -1,0 +1,12 @@
+*/data
+*.tsv
+*.wav
+*.json
+*/pretrained_models
+pretrained_models/*
+*/.ipynb_checkpoints
+*/output
+__pycache__
+.DS_Store
+*.zip
+*.egg-info

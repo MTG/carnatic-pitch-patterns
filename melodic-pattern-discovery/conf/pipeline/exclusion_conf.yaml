@@ -1,0 +1,9 @@
+# To not use any exclusion functions pass an empty list - []
+exclusion_funcs:
+   - func: !dottedname src.sequence.too_much_mask
+     kwargs:
+       thresh: 0.05
+   - func: !dottedname src.sequence.min_gap
+     kwargs:
+       length: 86
+
