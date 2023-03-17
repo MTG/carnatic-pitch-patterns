@@ -63,7 +63,7 @@ Final results are stored in the corresponding directory for each pitch track in 
 The results discussed in the paper can be found in `data/FINAL_RESULTS/`
 
 #### Annotations
-`annotations_joined.csv` corresponds to the original annotations joined with the motif group and occurrence number of the match (if matched) for each pitch track.
+`annotations_joined.csv` corresponds to the original annotations joined with the motif group and occurrence number of the match (if matched) for each pitch track. More information on how these annotations were created can be found [here](https://github.com/MTG/compIAM/tree/master/compiam/annotations).
 
 ### Visualisation
 The plots included in the paper can be generated and using the code in `experiments/plots_for_paper.py` (this is not the cleanest of code!)
